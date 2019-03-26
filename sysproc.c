@@ -90,13 +90,9 @@ sys_uptime(void)
   return xticks;
 }
 int
-
 sys_wcupa(void)
-
 {
-
   return 1871;
-
 }
 
 
